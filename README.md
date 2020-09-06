@@ -27,12 +27,12 @@ $ cd rnumber
 $ python2 crack.py
 ```
 ## License 
-* ANGGAXD
+* -
 
 ## Informasi For Updates Script
 * Done Released Script
 * Done Updated List Password
 * Done Fix Errors Installed
-* License
+* Not License
 Notice Me : Please Don't Change Name Author
 Thanks For Using My Script
