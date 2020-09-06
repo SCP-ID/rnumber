@@ -27,7 +27,7 @@ $ cd rnumber
 $ python2 crack.py
 ```
 ## License 
-* -
+* Not License
 
 ## Informasi For Updates Script
 * Done Released Script
